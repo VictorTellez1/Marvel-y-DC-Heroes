@@ -10,4 +10,4 @@ En temas técnicos se utilizó React en su version 18, junto a react router dom 
 para el componente de la búsqueda. Para el manejo de estados de login y logout empleé context y el diseño es responsive creado con Bootstrap. 
 Para que el tema del login sea persistente se utiliza localStorage.
 
-Visita la página : https://subtle-moxie-766ee5.netlify.app/login
+Visita la página : https://subtle-moxie-766ee5.netlify.app
